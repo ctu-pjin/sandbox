@@ -2,7 +2,7 @@
 
 ## Seznam členů
 
-- Martin Landa (GitHub uživatel)
+- Jméno Příjmení (GitHub uživatel)
 - Jméno Příjmení (GitHub uživatel)
 - ...
 
