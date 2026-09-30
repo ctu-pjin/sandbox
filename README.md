@@ -2,8 +2,8 @@
 
 ## Seznam členů
 
-- ? (?)
-- Ondřej Pešek(GitHub uživatel)
+- Jméno Příjmení (GitHub uživatel)
+- Jméno Příjmení (GitHub uživatel)
 - ...
 
 ## Zadání
