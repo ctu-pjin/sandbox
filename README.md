@@ -3,7 +3,7 @@
 ## Seznam členů
 
 - Martin Landa (landamar)
-- Jméno Příjmení (GitHub uživatel)
+- Ondřej Pešek(GitHub uživatel)
 - ...
 
 ## Zadání
