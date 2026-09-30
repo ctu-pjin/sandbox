@@ -2,7 +2,7 @@
 
 ## Seznam členů
 
-- Martin Landa (landamar)
+- ? (?)
 - Ondřej Pešek(GitHub uživatel)
 - ...
 
