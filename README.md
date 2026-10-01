@@ -3,7 +3,7 @@
 ## Seznam členů
 
 - Martin Landa (landamar)
-- Jméno Příjmení (GitHub uživatel)
+- Jaroslav Sedina (GitHub uživatel)
 - ...
 
 ## Zadání
