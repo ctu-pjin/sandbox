@@ -5,6 +5,7 @@
 - Martin Landa (landamar)
 - Jaroslav Sedina (GitHub uživatel)
 - Ondrej Pesek
+- ...
 
 ## Zadání
 
